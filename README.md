@@ -1,2 +1,2 @@
-# Library-System-API
-NodeJS API for Library Management System
+# MANIT-Raven
+News Aggregator for MANIT, Bhopal
